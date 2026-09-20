@@ -104,16 +104,7 @@ JavaScript · HTML — data structure / algorithm demos
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thanawatx01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF7A18&icon_color=FF9A3C&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanawatx01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF7A18&text_color=c9d1d9" alt="Top languages" />
-
-<br />
-
 [![GitHub streak](https://streak-stats.demolab.com?user=Thanawatx01&theme=radical&hide_border=true&background=0D1117&ring=FF7A18&fire=FF9A3C&currStreakLabel=FF7A18)](https://github.com/Thanawatx01)
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanawatx01&bg_color=0d1117&color=ff9a3c&line=ff7a18&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
 <br />
 
