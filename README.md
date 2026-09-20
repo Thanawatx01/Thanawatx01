@@ -1,42 +1,43 @@
 <!--
   GitHub Profile README — https://github.com/Thanawatx01
-  Appears on the Overview tab when this file lives in Thanawatx01/Thanawatx01
 -->
 
 <div align="center">
 
-# Thanawat · [@Thanawatx01](https://github.com/Thanawatx01)
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,50:FF9A3C,100:111111&height=220&section=header&text=Thanawatx01&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%C2%B7%20Platform%20%C2%B7%20Automation%20%26%20AI&descAlignY=55&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
-**Full-Stack Engineer · Platform Builder · Automation & AI Systems**
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF9A3C&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Building+real+systems+end-to-end;Next.js+%2B+API+%2B+Auth+%2B+Data;Discord+automation+%26+DX+tooling;Ship+fast.+Iterate+smarter.)](https://github.com/Thanawatx01)
 
-สร้างระบบจริงที่ใช้ได้จริง — จาก coding platform แบบเต็มสแตก  
-ไปจนถึง Discord automation, backoffice API และเครื่องมือสำหรับทีม
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f375fac0-d37c-4ea3-87c2-2fa0d31c3c0f.gif" width="480" alt="coding animation" />
 
-<br />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Thanawatx01&style=for-the-badge&color=ff7a18" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Thanawatx01?style=for-the-badge&logo=github&color=181717" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20DX%20%7C%20Automation-FF7A18?style=for-the-badge" alt="focus" />
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Thanawatx01?style=for-the-badge&logo=github&color=181717)](https://github.com/Thanawatx01)
-[![Repos](https://img.shields.io/badge/Repos-23+-0A7CFF?style=for-the-badge&logo=github)](https://github.com/Thanawatx01?tab=repositories)
-[![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20DX%20%7C%20Automation-FF7A18?style=for-the-badge)](https://github.com/Thanawatx01)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow line" />
 
 </div>
 
----
+## 👋 About me
 
-## About
+สร้างระบบจริงที่ใช้ได้จริง — จาก **coding platform** แบบเต็มสแตก  
+ไปจนถึง **Discord automation**, backoffice API และเครื่องมือสำหรับทีม
 
-ผมโฟกัสงานที่ต้องออกแบบทั้ง **frontend, backend, auth, data และ DX** ให้ทำงานร่วมกันเป็นระบบเดียว  
-ไม่ใช่แค่หน้าเว็บสวย — แต่ต้อง deploy ได้, ดูแลได้ และขยายต่อได้
+ไม่ใช่แค่หน้าเว็บสวย แต่ต้อง **deploy ได้ · ดูแลได้ · ขยายต่อได้**
 
-**สิ่งที่ทำบ่อย**
 - ออกแบบและพัฒนา **web platforms** (Next.js + API)
 - สร้าง **backoffice / admin systems** ที่ใช้งานจริง
 - ทำ **Discord bots & broadcast tooling** สำหรับทีมและชุมชน
 - ทดลอง **RAG / AI-assisted apps** สำหรับงานเรียนรู้และข้อมูล
 - เขียนโค้ดที่อ่านง่าย มีโครงสร้างชัด และพร้อมต่อยอด
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line" />
 
-## Featured Work
+## 🚀 Featured Work
 
 <table>
   <tr>
@@ -96,7 +97,7 @@ REST API สำหรับจัดการโจทย์, submission, auth �
 </table>
 
 <details>
-<summary><strong>More projects</strong></summary>
+<summary><strong>📦 More projects</strong></summary>
 
 | Repo | Focus |
 |------|--------|
@@ -112,80 +113,89 @@ REST API สำหรับจัดการโจทย์, submission, auth �
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" alt="line" />
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+
+### Languages & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css,nodejs&theme=dark" alt="languages" />
+</p>
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark" alt="frontend" />
+</p>
 
 ### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=express,laravel,postgres,mysql,supabase,redis,docker&theme=dark" alt="backend" />
+</p>
 
-### Platforms & Ops
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Judge0](https://img.shields.io/badge/Judge0%20%2F%20Piston-111827?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="tools" />
+</p>
 
----
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Judge0%20%2F%20Piston-111827?style=for-the-badge" alt="Judge0" />
+<img src="https://img.shields.io/badge/Monaco%20Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco" />
 
-## How I Work
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%" alt="line" />
+
+## ⚡ How I Work
 
 ```text
-Problem  →  Architecture  →  Build  →  Secure  →  Ship  →  Iterate
+ Problem  →  Architecture  →  Build  →  Secure  →  Ship  →  Iterate
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-eaf7b98cd3bd.gif" width="100%" alt="divider" />
 
 - **System thinking** — แยก domain, API contract, auth และ UI ให้ชัดก่อนลงโค้ดหนัก
 - **Practical security** — JWT, permission boundaries, mention safety, local-only secrets
 - **Developer experience** — README ที่รันตามได้, structure ที่หาจุดแก้ได้เร็ว
 - **End-to-end ownership** — จาก schema / migration ไปถึงหน้าจอที่ผู้ใช้กดใช้งานจริง
 
----
-
-## Activity Snapshot
+## 📊 Activity Snapshot
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Thanawatx01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanawatx01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thanawatx01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF7A18&icon_color=FF9A3C&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanawatx01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF7A18&text_color=c9d1d9" alt="Top languages" />
 
 <br />
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Thanawatx01&theme=tokyonight&hide_border=true)](https://github.com/Thanawatx01)
+[![GitHub streak](https://streak-stats.demolab.com?user=Thanawatx01&theme=radical&hide_border=true&background=0D1117&ring=FF7A18&fire=FF9A3C&currStreakLabel=FF7A18)](https://github.com/Thanawatx01)
+
+<br />
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanawatx01&bg_color=0d1117&color=ff9a3c&line=ff7a18&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+
+<br />
+
+<!-- Contribution snake (generated by GitHub Action) -->
+<img src="https://raw.githubusercontent.com/Thanawatx01/Thanawatx01/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
----
-
-## Currently Exploring
+## 🔭 Currently Exploring
 
 - Full-stack ecommerce & admin systems (Laravel / modern JS stack)
 - Code execution platforms และ judge infrastructure
 - Discord automation ที่ปลอดภัยและใช้งานในทีมได้จริง
 - RAG / AI tooling สำหรับงานเอกสารและการเรียนรู้
 
----
+<br />
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:FF7A18,100:FF9A3C&height=140&section=footer&text=Let's%20build%20something%20great&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" alt="footer" />
 
 **Open to collaboration on platforms, tooling, and product-minded engineering.**
 
